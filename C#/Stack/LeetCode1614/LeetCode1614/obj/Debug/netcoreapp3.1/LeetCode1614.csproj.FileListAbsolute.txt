@@ -1,0 +1,14 @@
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\bin\Debug\netcoreapp3.1\LeetCode1614.exe
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\bin\Debug\netcoreapp3.1\LeetCode1614.deps.json
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\bin\Debug\netcoreapp3.1\LeetCode1614.runtimeconfig.json
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\bin\Debug\netcoreapp3.1\LeetCode1614.runtimeconfig.dev.json
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\bin\Debug\netcoreapp3.1\LeetCode1614.dll
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\bin\Debug\netcoreapp3.1\LeetCode1614.pdb
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.csproj.AssemblyReference.cache
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.AssemblyInfoInputs.cache
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.AssemblyInfo.cs
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.csproj.CoreCompileInputs.cache
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.dll
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.pdb
+C:\Users\goeun\source\repos\DataStructures-Algorithms\C#\Stack\LeetCode1614\LeetCode1614\obj\Debug\netcoreapp3.1\LeetCode1614.genruntimeconfig.cache
